@@ -6,4 +6,4 @@ function getInitial(words) {
     .join("");
 }
 
-getInitial("we are here");
+const initialString = getInitial("we are here");
