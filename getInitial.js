@@ -6,5 +6,5 @@ function getInitial(words) {
     .join("");
 }
 
-// There are no accidents
+// We are storing a value in here
 const initialString = getInitial("we are here");
